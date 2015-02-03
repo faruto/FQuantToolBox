@@ -9,10 +9,15 @@ more info see http://www.matlabsky.com/forum-112-1.html
 
 ========================================================================== 
 FQuantToolBox by 李洋faruto 
+
 http://weibo.com/faruto 
+
 http://www.matlabsky.com 
+
 http://blog.sina.com.cn/faruto 
+
 Email:farutoliyang@foxmail.com 
+
 FQuantToolBox: A Data and Backtesting Quant Tool Box based on MATLAB by faruto. 
 
 Version: V1.3 
