@@ -2,8 +2,11 @@
 FQuantToolBox
 
 more info see http://www.matlabsky.com/forum-112-1.html 
+
 工具箱完全版本请到百度网盘下载：http://pan.baidu.com/s/1gdIiccN 
+
 工具箱的使用请详见里面的mannual ：FQuantToolBox Mannual V1.3 byLY_faruto.pdf 
+
 ========================================================================== 
 FQuantToolBox by 李洋faruto 
 http://weibo.com/faruto 
