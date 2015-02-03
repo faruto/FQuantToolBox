@@ -16,8 +16,8 @@ Email:farutoliyang@foxmail.com
 FQuantToolBox: A Data and Backtesting Quant Tool Box based on MATLAB by faruto. 
 
 Version: V1.3 
-
 Last Modified 2015.01.24 
+
 ================================= 
 History: 
 
@@ -45,8 +45,8 @@ FQuantToolBox定位是个数据和回测工具箱，没有实盘交易相关接�
 
 V1.3主要更新为：
 
-
 更新优化调整了部分核心代码，提高代码运行速度。 
+
 =================================	
 V1.2更新说明
 
