@@ -1,7 +1,11 @@
 # FQuantToolBox
 FQuantToolBox
 
-FQuantToolBox全部源码Mcode公开-20181130 by
+FQuantToolBox全部源码Mcode公开-20181130 by faruto
+
+more info see http://faruto.matlabsky.com/
+
+=============================================================
 
 more info see http://www.matlabsky.com/forum-112-1.html 
 
